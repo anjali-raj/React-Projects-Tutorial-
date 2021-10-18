@@ -1,0 +1,2 @@
+//Primitives
+let age: number;
